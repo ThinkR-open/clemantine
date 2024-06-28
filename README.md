@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# clemantine
+# {clemantine} <img src="man/figures/logo.png" align="right" height="138" alt="" />
 
 <!-- badges: start -->
 
@@ -10,12 +10,12 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![R-CMD-check](https://github.com/ThinkR-open/clemantine/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ThinkR-open/clemantine/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of clemantine is to help you to build beautiful and efficient
-Shiny applications.
+`{clemantine}` is a package that provides a set of functions around the
+React component library [Mantine](https://mantine.dev/).
 
 ## Installation
 
-You can install the development version of clemantine from
+You can install the development version of `{clemantine}` from
 [GitHub](https://github.com/) with:
 
 ``` r
