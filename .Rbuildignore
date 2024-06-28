@@ -2,3 +2,5 @@
 ^LICENSE\.md$
 ^README\.Rmd$
 ^dev$
+^CODE_OF_CONDUCT\.md$
+^README\.html$
