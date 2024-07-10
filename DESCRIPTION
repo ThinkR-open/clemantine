@@ -1,6 +1,6 @@
 Package: clemantine
 Title: Mantine.dev React Components Library
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Arthur", "Bréant", , "arthur@thinkr.fr", role = c("aut", "cre"))
 Description: A kit of tools to use mantine components in R.

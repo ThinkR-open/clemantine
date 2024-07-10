@@ -1,3 +1,5 @@
-# clemantine 0.0.0.9000
+# clemantine 0.1.0
 
-- Init dev version
+- Create clemantine page
+- Use clemantine dependencies
+- Start to use Mantine.dev
